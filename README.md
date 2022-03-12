@@ -1,0 +1,1 @@
+# Temperatura_cusco_mean
